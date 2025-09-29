@@ -16,6 +16,8 @@ Start by writing a **brief introduction** to your project right here in this `RE
 
 Just 2–3 lines are enough. This helps others quickly understand what your project is about.
 
+We are planning to make a miniature dry waste cleaning boat utilizing a rotating conveyor belt that will pull in water surface waste and deposit said waste on a bin. This miniature boat will be mobile using BO motors and help reduce water pollution. 
+
 Click on the ✏️ PENCIL icon next to the README title above, and you can edit the README directly from within your browser.
 
 ---
